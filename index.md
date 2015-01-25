@@ -46,6 +46,4 @@ https://abbhakan.shinyapps.io/Kmean-Explorer/
 
 Any questions or suggestions may be directed to abbhakan 'at' gmail.com.
 
----
-
 
